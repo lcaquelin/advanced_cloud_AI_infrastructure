@@ -1,6 +1,6 @@
 # Popote: one coupon budget that keeps customers
 
-Group: ........   Members: ........, ........, ........, ........
+Group 7   Members: Saumya Joshi, Miguel Negron, Louise Caquelin, Carla Chaume
 
 **In one sentence:** one weekly coupon budget, spent where it actually keeps customers: first a gesture for
 customers delivered late, sized to the delay and their churn risk, then coupons for at-risk customers worth
