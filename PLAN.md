@@ -52,10 +52,10 @@ gesture arrives the next morning, not at delivery; in exchange, no new real-time
 
 | Member | Part owned |
 | --- | --- |
-| ........ | `packaged_app/` |
+| Louise Caquelin | `packaged_app/` |
 | Carla Chaume | `docs/BUSINESS.md` (and this PLAN.md) |
-| ........ | `docs/ARCHITECTURE.md` and `docs/CLOUD.md` |
-| ........ | `docs/OPERATIONS.md` |
+| Miguel Negron | `docs/ARCHITECTURE.md` and `docs/CLOUD.md` |
+| Saumya Joshi | `docs/OPERATIONS.md` |
 
 ---
 
