@@ -23,6 +23,17 @@ session log at the bottom).
 - **The decision that changes:** who gets a gesture or a coupon this week, and how much. Who decides: the
   nightly pipeline, read by marketing every morning.
 
+
+## The rules (first version)
+
+- **Late** = delivered more than 10 min after the promised time. Under 10 min: nothing.
+- **10 to 20 min late:** free delivery on the next order, only if churn risk ≥ 0.5.
+- **More than 20 min late:** 5 € voucher for everyone, 10 € if churn risk ≥ 0.5.
+- **Repeated delays:** a 2nd late order within 30 days moves the customer up one level.
+- **Then the coupons:** the rest of the weekly budget goes to at-risk customers, the most valuable first.
+- **Always:** max one gesture per customer per week, within the budget; the held-out group gets nothing.
+
+
 ## The KPIs (step 2)
 
 - **Business metric:** customers still ordering 30 days later, per 1,000 € spent, targeted vs a held-out group
